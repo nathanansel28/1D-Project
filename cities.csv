@@ -1,0 +1,111 @@
+city,city_ascii,lat,lng
+Quezon City,Quezon City,14.65,121.0475
+Zamboanga City,Zamboanga City,6.9042,122.0761
+Davao,Davao,7.07,125.6
+Caloocan City,Caloocan City,14.65,120.97
+Cebu City,Cebu City,10.32,123.75
+Antipolo,Antipolo,14.5842,121.1763
+Taguig City,Taguig City,14.52,121.05
+Pasig City,Pasig City,14.5605,121.0765
+Cagayan de Oro,Cagayan de Oro,8.48,124.65
+Valenzuela,Valenzuela,14.7,120.98
+General Santos,General Santos,6.12,125.17
+City of Parañaque,City of Paranaque,14.5008,120.9915
+Makati City,Makati City,14.5567,121.0214
+Bacolod,Bacolod,10.6765,122.9509
+Iloilo,Iloilo,10.72,122.57
+Muntinlupa City,Muntinlupa City,14.38,121.05
+Lapu-Lapu City,Lapu-Lapu City,10.3127,123.9488
+Angeles City,Angeles City,15.1472,120.5847
+Marikina City,Marikina City,14.65,121.1
+Pasay City,Pasay City,14.55,121
+Mandaluyong City,Mandaluyong City,14.58,121.03
+Tarlac City,Tarlac City,15.4869,120.59
+Malabon,Malabon,14.66,120.96
+Butuan,Butuan,8.948,125.543
+Baguio City,Baguio City,16.4119,120.5933
+Mandaue City,Mandaue City,10.33,123.93
+Iligan,Iligan,8.23,124.25
+San Fernando,San Fernando,15.03,120.68
+Batangas,Batangas,13.83,121
+Naga City,Naga City,13.6244,123.1864
+Cotabato,Cotabato,7.22,124.25
+Puerto Princesa,Puerto Princesa,9.75,118.75
+Tagum,Tagum,7.4478,125.8078
+Lucena,Lucena,13.93,121.62
+Malolos,Malolos,14.8433,120.8114
+Olongapo,Olongapo,14.83,120.28
+Tacloban,Tacloban,11.24,125
+Navotas,Navotas,14.6667,120.9417
+Ormoc,Ormoc,11.0106,124.6075
+Trece Martires City,Trece Martires City,14.28,120.87
+Pagadian,Pagadian,7.8272,123.4364
+Legazpi City,Legazpi City,13.13,123.73
+Marawi City,Marawi City,8.0031,124.285
+Malaybalay,Malaybalay,8.1564,125.1333
+Digos,Digos,6.75,125.35
+Sorsogon,Sorsogon,12.9742,124.0058
+Roxas City,Roxas City,11.5894,122.7511
+Dagupan City,Dagupan City,16.043,120.334
+Surigao,Surigao,9.7897,125.4958
+Tuguegarao,Tuguegarao,17.6133,121.7303
+Kidapawan,Kidapawan,7.0083,125.0894
+Ilagan,Ilagan,17.1489,121.8894
+Santiago,Santiago,16.68,121.55
+Mati,Mati,6.9483,126.2272
+Calapan,Calapan,13.414,121.18
+Dipolog,Dipolog,8.5872,123.3408
+La Trinidad,La Trinidad,16.46,120.59
+Jolo,Jolo,6,121
+Dumaguete City,Dumaguete City,9.3103,123.3081
+City of Isabela,City of Isabela,6.7,121.97
+San Juan,San Juan,14.604,121.03
+San Fernando,San Fernando,16.62,120.32
+Malita,Malita,6.4108,125.6144
+Datu Odin Sinsuat,Datu Odin Sinsuat,7.1889,124.1839
+Bongao,Bongao,5.0292,119.7731
+Daet,Daet,14.1142,122.9564
+Laoag,Laoag,18.1978,120.5936
+Lingayen,Lingayen,16.0167,120.2333
+Catbalogan,Catbalogan,11.78,124.88
+Masbate,Masbate,12.27,123.58
+Balanga,Balanga,14.68,120.53
+Catarman,Catarman,12.4994,124.6328
+Isulan,Isulan,6.63,124.6
+Ipil,Ipil,7.7822,122.5867
+Kalibo,Kalibo,11.7072,122.37
+Prosperidad,Prosperidad,8.61,125.92
+Alabel,Alabel,6.1023,125.2868
+Maasin,Maasin,10.13,124.85
+Nabunturan,Nabunturan,7.6008,125.9656
+Cabadbaran,Cabadbaran,9.12,125.53
+Virac,Virac,13.58,124.23
+Oroquieta,Oroquieta,8.48,123.8
+Borongan,Borongan,11.6094,125.4361
+Bayombong,Bayombong,16.48,121.15
+San Jose,San Jose,10.7433,121.9411
+Tandag,Tandag,9.0789,126.1986
+Naval,Naval,11.58,124.45
+Buluan,Buluan,6.7154,124.7854
+Boac,Boac,13.45,121.83
+Iba,Iba,15.33,119.98
+Vigan,Vigan,17.5747,120.3869
+Bangued,Bangued,17.6,120.62
+Tubod,Tubod,8.05,123.8
+Mamburao,Mamburao,13.2233,120.596
+Palayan City,Palayan City,15.5422,121.0844
+Baler,Baler,15.7583,121.5625
+Mambajao,Mambajao,9.25,124.72
+Romblon,Romblon,12.55,122.28
+Jordan,Jordan,10.6,122.6
+Cabarroguis,Cabarroguis,16.5103,121.5222
+Siquijor,Siquijor,9.18,123.58
+Bontoc,Bontoc,17.09,120.9772
+Lagawe,Lagawe,16.7975,121.1228
+Kabugao,Kabugao,18.0239,121.1833
+Basco,Basco,20.45,121.97
+Pili,Pili,13.7177,123.7448
+Tabuk,Tabuk,17.4084,121.2785
+San Jose,San Jose,10.18,125.5683
+Santa Cruz,Santa Cruz,14.1167,121.2833
+Koronadal,Koronadal,6.2541,124.9922
