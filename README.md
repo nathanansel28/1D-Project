@@ -16,3 +16,9 @@ Indeed, this problem is a “Multi-Stage” Capacitated Facility Location Proble
 
 # Code
 The model was solved using Julia, particularly by using JuMP and GLPK as the solver.
+
+# Authors
+Nathan Ansel
+Blauta Isaiah Rafael Tugano
+Harrish Rahul Venkatraman
+Lim Kyu Ha
